@@ -11,8 +11,12 @@ This project is a frontend clone of YouTube's homepage. It is designed using HTM
 2. **Navigation Menu:**
    - Contains sidebar links to different categories and features similar to YouTube's sidebar.
 
-3. **Video Thumbnails:**
-   - Displays a grid of video thumbnails, replicating the layout of YouTube's video suggestions.
+3. **Video Grid:**
+   - Displays a grid of video thumbnails with associated details:
+     - **Video Thumbnails:** Large video preview images.
+     - **Video Name:** Title of the video displayed below each thumbnail.
+     - **Profile Picture:** Small circular profile images of the video creators.
+     - **View Count:** Displays the number of views each video has received.
 
 **Technologies Used:**
 
